@@ -18,6 +18,13 @@ A collection of hands-on coding exercises from [Google’s Python Class](https:/
 
 📁 Folder: [google-python-lab](google-python-lab)
 
+### 📊 Data Structure and Algorithms
+
+A curated collection of Data Structures and Algorithms problems from [LeetCode](https://leetcode.com/). Each solution includes time and space complexity analysis to reinforce problem-solving patterns and optimize performance.
+
+📁 Folder: [dsa-lab](dsa-lab)
+
+
 ## Sources
 - [Google Python Lab](google-python-lab)
 - [LeetCode](https://leetcode.com/)
